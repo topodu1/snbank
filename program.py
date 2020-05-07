@@ -1,3 +1,8 @@
+#Simple Banking System with FileSystem
+#Temitope Odulate
+#topeodulate@gmail.com
+
+#I chose to define the functions and just run the whole program with three functions
 import random
 
 
